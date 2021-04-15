@@ -1,0 +1,16 @@
+body{
+  text-align: center;
+  background: #00ACC1;
+  
+}
+img{
+  border-radius:50%;
+  width:120px;
+    height: 150px;
+}
+p{
+font-size:40px;
+}
+h1{
+  font-size:45px;
+}
